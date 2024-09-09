@@ -1,0 +1,1 @@
+echo "# self-nextjs" >> README.md
